@@ -35,7 +35,7 @@ When I'm not writing code or analyzing vulnerabilities, I love staying active an
 <!-- İstatistik Kartı -->
 <p align="center">
   <a href="https://github.com/Efehamzaa">
-    <img src="https://github-readme-stats.vercel.app/api?username=Efehamzaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Efe Hamza's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Efehamzaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Efe Hamza's GitHub Stats" />
   </a>
 </p>
 
